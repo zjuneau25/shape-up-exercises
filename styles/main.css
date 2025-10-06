@@ -12,13 +12,13 @@ h1 {
 
 
 header h1 {
-    font-size:xx-larger;
+    font-size: 200%;
     color: steelblue;
     font-style: italic;
     
 }
 header h3{
-    font-size: x-large;
+    font-size: 150%;
 }
 header img {
     float: left;
